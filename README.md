@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ormidales!
+# 👋 Hi there, I'm Hugo !
 
 Welcome to my GitHub profile!
 I'm a **Web and Software Developer at [Pyréweb (@pyreweb)](https://github.com/pyreweb)**.
