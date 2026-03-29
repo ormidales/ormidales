@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Hugo !
 
-Welcome to my GitHub profile!
 I'm a **Web and Software Developer at [Pyréweb (@pyreweb)](https://github.com/pyreweb)**.
 I'm passionate about building robust, scalable, and innovative solutions. Here you'll find a collection of projects that reflect my dedication to quality and creativity in software development.
 
