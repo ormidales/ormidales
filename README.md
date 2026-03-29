@@ -8,7 +8,3 @@ I'm passionate about building robust, scalable, and innovative solutions. Here y
 ## 📫 Let's Connect
 
 I'm always open to collaboration or discussing new ideas!
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
